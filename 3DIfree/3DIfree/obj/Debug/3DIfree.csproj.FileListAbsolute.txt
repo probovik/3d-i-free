@@ -1,0 +1,12 @@
+c:\users\a.tolstov\documents\visual studio 2012\Projects\3DIfree\3DIfree\obj\Debug\3DIfree.csprojResolveAssemblyReference.cache
+c:\users\a.tolstov\documents\visual studio 2012\Projects\3DIfree\3DIfree\bin\Debug\3DIfree.pdb
+c:\users\a.tolstov\documents\visual studio 2012\Projects\3DIfree\3DIfree\bin\Debug\OpenTK.Compatibility.dll
+c:\users\a.tolstov\documents\visual studio 2012\Projects\3DIfree\3DIfree\bin\Debug\OpenTK.dll
+c:\users\a.tolstov\documents\visual studio 2012\Projects\3DIfree\3DIfree\bin\Debug\OpenTK.GLControl.dll
+c:\users\a.tolstov\documents\visual studio 2012\Projects\3DIfree\3DIfree\bin\Debug\OpenTK.pdb
+c:\users\a.tolstov\documents\visual studio 2012\Projects\3DIfree\3DIfree\bin\Debug\OpenTK.xml
+c:\users\a.tolstov\documents\visual studio 2012\Projects\3DIfree\3DIfree\bin\Debug\OpenTK.GLControl.xml
+c:\users\a.tolstov\documents\visual studio 2012\Projects\3DIfree\3DIfree\obj\Debug\3DIfree.pdb
+c:\users\a.tolstov\documents\visual studio 2012\Projects\3DIfree\3DIfree\bin\Debug\3DIfree.exe.config
+c:\users\a.tolstov\documents\visual studio 2012\Projects\3DIfree\3DIfree\bin\Debug\3DIfree.exe
+c:\users\a.tolstov\documents\visual studio 2012\Projects\3DIfree\3DIfree\obj\Debug\3DIfree.exe
